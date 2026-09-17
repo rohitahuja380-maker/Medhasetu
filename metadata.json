@@ -1,0 +1,6 @@
+{
+  "name": "MEDHA-SETU",
+  "description": "AI-Powered Adaptive Learning Bridge - Phase-1 prototype for personalized learning paths, learning gap detection, smart resource hub, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
