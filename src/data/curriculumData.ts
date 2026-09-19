@@ -1,9 +1,9 @@
 import { StudentProfile, Topic, LearningScheduleItem, Resource, ChatMessage } from '../types';
 
 export const initialStudentProfile: StudentProfile = {
-  name: 'Student',
+  name: 'Rohit',
   course: 'B.Tech CSE',
-  year: '2st Year',
+  year: '1st Year',
   overallProgress: 68,
   currentStreak: 7,
   topicsMastered: 18,
